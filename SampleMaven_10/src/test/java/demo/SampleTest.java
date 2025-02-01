@@ -8,6 +8,6 @@ public class SampleTest {
 public void launch() {
 	Reporter.log("SampleTest class Executed", true);
 	Reporter.log("SampleTest class Exe", true);
-	
+		Reporter.log("SampleTest class Exe", true);
 }
 }
